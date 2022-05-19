@@ -22,7 +22,7 @@ My goal is to identify x
 | age | age of individual (numeric)|
 | job | type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student", "blue-collar","self-employed","retired","technician","services") |
 | marital | marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed) |
-| education (categorical: "unknown","secondary","primary","tertiary")|
+| education | (categorical: "unknown","secondary","primary","tertiary")|
 | default | has credit in default? (binary: "yes","no") |
 | balance | average yearly balance, in euros (numeric) |
 | housing | has housing loan? (binary: "yes","no") |
