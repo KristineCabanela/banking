@@ -27,12 +27,10 @@ My goal is to identify x
 | balance | average yearly balance, in euros (numeric) |
 | housing | has housing loan? (binary: "yes","no") |
 | loan    | has personal loan? (binary: "yes","no") |
-# related with the last contact of the current campaign:
 | contact | contact communication type (categorical: "unknown","telephone","cellular") |
 | day | last contact day of the month (numeric) |
 | month | last contact month of year (categorical: "jan", "feb", "mar", …, "nov", "dec") |
 | duration | last contact duration, in seconds (numeric) |
-# other attributes:
 | campaign | number of contacts performed during this campaign and for this client (numeric, includes last contact) |
 | pdays | number of days that passed by after the client was last contacted from a previous campaign (numeric, -1 means client was not previously contacted) |
 | previous | number of contacts performed before this campaign and for this client (numeric) |
