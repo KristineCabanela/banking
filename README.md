@@ -20,7 +20,7 @@ My goal is to identify x
 | Variable    | Meaning     |
 | ----------- | ----------- |
 | age (numeric) |
-| job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
+| job | type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
 "blue-collar","self-employed","retired","technician","services") |
 | marital | marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed) |
 | education (categorical: "unknown","secondary","primary","tertiary")|
