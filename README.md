@@ -2,7 +2,7 @@
 
 # About the Project
 
-My goal is to identify characteristics
+My goal is to identify characteristics for marketing analysis for individuals
 
 # Project Goals
 
