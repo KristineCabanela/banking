@@ -2,7 +2,7 @@
 
 # About the Project
 
-My goal is to identify x
+My goal is to identify characteristics
 
 # Project Goals
 
@@ -48,3 +48,5 @@ My goal is to identify x
 - Document conclusions, takeaways, and next steps in the Final Report Notebook.
 
 ## Plan
+
+-
