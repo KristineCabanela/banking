@@ -2,7 +2,7 @@
 
 # About the Project
 
-My goal is to identify characteristics for marketing analysis for individuals
+My goal is to identify characteristics for marketing analysis for individuals in banking
 
 # Project Goals
 
