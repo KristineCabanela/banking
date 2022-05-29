@@ -43,7 +43,7 @@ The goals for this project are to answer initial questions.
 
 ## Steps to Reproduce
 
-- Create an env.py file that contains the hostname, username and password of the mySQL database that contains the titanic_db.passengers table. Store that env file locally in the repository.
+- Save CSV files for test/train locally. (test.csv, train.csv)
 - Clone my repo (including an acquire.py and prepare.py) (confirm .gitignore is hiding your env.py file)
 - Libraries used are pandas, matplotlib, seaborn, numpy, sklearn.
 - Document conclusions, takeaways, and next steps in the Final Report Notebook.
