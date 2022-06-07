@@ -11,7 +11,7 @@ The goals for this project are to answer initial questions.
 ### Initial Questions
 
 - What is the relationship between clients and marital status?
-- What is the relationship between
+- What is the relationship between clients and job?
 -
 -
 
