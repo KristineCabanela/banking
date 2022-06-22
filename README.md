@@ -5,7 +5,7 @@
 My goal is to identify characteristics for marketing analysis for individuals in banking clients. 
 
 # Project Goals
-The goals for this project are to answer initial questions.
+The goals for this project are to answer initial questions, and analyze the characteristics for banking clientele for marketing purposes.
 
 
 ### Initial Questions
@@ -13,7 +13,7 @@ The goals for this project are to answer initial questions.
 - What is the relationship between clients and marital status?
 - What is the relationship between clients and job?
 - What is the relationship between x and y
--
+- 
 
 ### Data Dictionary
 
