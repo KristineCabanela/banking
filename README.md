@@ -2,10 +2,11 @@
 
 # About the Project
 
-My goal is to identify characteristics for marketing analysis for individuals in banking clients. 
+My goal is to identify characteristics for marketing analysis for individuals in banking clients.
+
 
 # Project Goals
-The goals for this project are to answer initial questions, and analyze the characteristics for banking clientele for marketing purposes.
+The goals for this project are to answer initial questions, and analyze the characteristics for banking clientele for marketing purposes. Business goals include which demographic of individuals to create marking improvements on.
 
 
 ### Initial Questions
