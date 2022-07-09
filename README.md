@@ -14,7 +14,7 @@ The goals for this project are to answer initial questions, and analyze the char
 - What is the relationship between clients and marital status?
 - What is the relationship between clients and job?
 - What is the relationship between x and y
-- What is the relationship between
+- What is the relationship between x and y
 
 ### Data Dictionary
 
