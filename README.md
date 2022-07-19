@@ -13,8 +13,8 @@ The goals for this project are to answer initial questions, and analyze the char
 
 - What is the relationship between clients and marital status?
 - What is the relationship between clients and job?
-- What is the relationship between job and and education level
-- What is the relationship between marital status
+- What is the relationship between job and and education level?
+- What is the relationship between marital status?
 
 ### Data Dictionary
 
