@@ -51,4 +51,4 @@ The goals for this project are to answer initial questions, and analyze the char
 
 ## Plan
 
-- First,
+- First, read README
